@@ -46,7 +46,7 @@ dependencies = [
   "orjson==3.10.16",
   "plotly<7.0.0",
   "pydantic",
-  "pymoo==0.6.1.5",
+  "pymoo==0.6.2",
   "pandas==2.2.3",
   "qicna==0.3.4",
   "scipy",
