@@ -24,7 +24,7 @@ classifiers = [
 ]
 dependencies = [
   "pybind11<3.0.0", # Breaking change in 3.0.0 triggers an incompatibility with booz-xform on MAC https://github.com/hiddenSymmetries/booz_xform/pull/21
-  "booz-xform==0.0.9",
+  "booz-xform==0.1.0",
   "datasets==3.5.1",
   "desc-opt==0.17.1",
   "ipython",
